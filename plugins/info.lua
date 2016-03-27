@@ -1,5 +1,5 @@
 do
-local AmirSbss = 122774063
+local Arian = 174770816
 
 local function setrank(msg, name, value) -- setrank function
   local hash = nil
