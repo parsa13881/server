@@ -255,7 +255,7 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {174770816},--Sudo users
+    sudo_users = {174770816,105831687},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeLeCuPoRt v1
